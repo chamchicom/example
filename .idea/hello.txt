@@ -4,4 +4,4 @@ git 전략 테스트 feature 기능 개발 -> commit, push -> develop PR 보내�
 
 test2 커밋 2개 시 어떻게 동작하는지 확인
 
-지우면 어떻게 되나?
+원래 글이 있던 부분을 변경해보자. git 충돌이 일어나나?
