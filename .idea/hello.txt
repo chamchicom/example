@@ -4,3 +4,5 @@
 콜라보레이터 테스트
 
 git 전략 테스트 feature 기능 개발 -> commit, push -> develop PR 보내기
+
+test2 커밋 2개 시 어떻게 동작하는지 확인
