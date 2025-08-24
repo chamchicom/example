@@ -2,3 +2,5 @@
 커밋 테스트
 
 콜라보레이터 테스트
+
+git 전략 테스트 feature 기능 개발 -> commit, push -> develop PR 보내기
